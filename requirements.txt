@@ -17,3 +17,7 @@ Pillow
 # HTTP 요청 및 진행률 표시
 requests
 tqdm
+
+openai[realtime]
+python-dotenv
+sounddevice
